@@ -9,6 +9,9 @@
     color: black;
     transition: all 0.3s ease;
 }
+.nav-link{
+    font-size: 100px;
+}
 .jumbotron{
     padding-top: 6rem;
     background-color: #e2edff;
