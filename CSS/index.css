@@ -21,9 +21,13 @@
     padding-top: 6rem;
     background-color: #e2edff;
 }
+.jumbotron p{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 100;
+}
 .display-4{
     font-family: 'Ubuntu', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
 }
 #galery{
     background-color: #e2edff;
