@@ -16,6 +16,7 @@
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
+    font-family: 'Ubuntu', sans-serif;
 }
 .jumbotron{
     padding-top: 6rem;
