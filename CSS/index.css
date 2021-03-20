@@ -23,6 +23,7 @@
 }
 .display-4{
     font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
 }
 #galery{
     background-color: #e2edff;
