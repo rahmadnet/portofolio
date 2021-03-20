@@ -37,3 +37,9 @@
 section{
     padding-top: 5rem;
 }
+.col h2{
+    font-family: 'Ubuntu', sans-serif;
+}
+.col p{
+    font-family: 'Poppins', sans-serif;
+}
