@@ -5,6 +5,10 @@
     font-size: 35px;
     font-weight: 600;
 }
+.navbar .navbar-brand span{
+    color: black;
+    transition: all 0.3s ease;
+}
 .jumbotron{
     padding-top: 6rem;
     background-color: #e2edff;
